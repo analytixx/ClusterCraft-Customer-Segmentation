@@ -1,0 +1,12 @@
+pandas==2.2.2
+numpy==2.0.2
+scikit-learn==1.6.1
+matplotlib==3.10.0
+scipy==1.15.2
+plotly==5.24.1
+seaborn==0.13.2
+
+These libraries cover:
+Data loading and manipulation (pandas, numpy)
+Clustering and preprocessing (scikit-learn, scipy)
+Visualization (matplotlib, seaborn, plotly)
