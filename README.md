@@ -27,6 +27,7 @@ ClusterCraft-CustomerSegmentation/
 - Customer_Profile_Data # Original dataset
 - requirements.txt # Required Python libraries
 - README.md # Project summary and structure
+- ClusterCraft-Project Report # Complete project report
   
 ---
 
